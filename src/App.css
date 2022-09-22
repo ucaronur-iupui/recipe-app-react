@@ -1,0 +1,17 @@
+.App{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    text-align: center;
+}
+
+input {
+    width: 200px;
+}
+
+li {
+    margin-bottom: 5px;
+}
